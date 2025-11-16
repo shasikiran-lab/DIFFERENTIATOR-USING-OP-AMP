@@ -50,10 +50,18 @@ DIFFERENTIATOR
 <img width="757" height="447" alt="image" src="https://github.com/user-attachments/assets/3bb38583-c020-43ad-8b15-c03f1f545842" />
 
 TABULATION:
+![WhatsApp Image 2025-11-16 at 11 52 30_aea3d7cd](https://github.com/user-attachments/assets/e75a2388-3e88-43f4-b16a-9de900cb82c1)
+
 
 
 GRAPH:
+![WhatsApp Image 2025-11-16 at 11 52 30_09db62bc](https://github.com/user-attachments/assets/7acea4ef-5995-4cd6-920b-b101e5f82e47)
+
+
+![WhatsApp Image 2025-11-16 at 11 52 30_9885b2ba](https://github.com/user-attachments/assets/5701bff2-1595-4632-ae21-c27af6f51f05)
+
+
 
 
 RESULT:
-
+Thus the differentaitor using op-amp are designed a their performance was successfully tested using op-amp IC741
